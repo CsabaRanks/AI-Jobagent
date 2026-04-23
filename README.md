@@ -1,5 +1,7 @@
 # AI-Based Personalized Job Ranking System
 
+🚧 Work in Progress
+
 A machine learning approach to transform unstructured job postings into a personalized, calibrated ranking system for better career decisions.
 
 ---
